@@ -1,0 +1,1 @@
+#Write a program in python to take full name as input. Now display short name of user

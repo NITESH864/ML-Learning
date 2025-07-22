@@ -1,0 +1,1 @@
+#Write a program in python to check given string is numeric or not

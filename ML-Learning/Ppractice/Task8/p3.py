@@ -1,0 +1,1 @@
+#Write a program in python to search a substring in given string

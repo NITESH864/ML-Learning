@@ -1,0 +1,1 @@
+#Write a program in python to take a sentence as input. Now count words in given sentence
