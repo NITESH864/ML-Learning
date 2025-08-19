@@ -101,7 +101,8 @@ These models can be **loaded back using `pickle`** for predictions without retra
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/ml-basics.git
-cd ml-basics
+
+---
+
+✨ This README now **describes all notebooks, datasets, algorithms, and results clearly**.  
+Do you also want me to **auto-generate a `requirements.txt`** (from all your notebooks) so it’s easy for others to install dependencies?
